@@ -1,1 +1,1 @@
-# p8105_hw2_rz2614
+# p8105_hw2_Ruihan Zhang
